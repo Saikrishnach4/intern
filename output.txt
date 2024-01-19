@@ -1,0 +1,13 @@
+Employees who have worked for 7 consecutive days:0
+
+Employees who have less than 10 hours between shifts but greater than 1 hour:
+Name: FeXix, XeEWeX Position: WFS000183
+Name: Xee, XaCar Position: WFS000200
+Name: MraW, WiXXiaC Ha Position: WFS000345
+Name: CcRAWWeX, REWaXd Xee Position: WFS000501
+Name: FeXix, XeEWeX Position: WFS000183
+Name: SiWgh, JaspreeM Position: WFS000424
+Name: FeXix, XeEWeX Position: WFS000183
+
+Employees who have worked for more than 14 hours in a single shift:
+Name: DeXgadiXXE REdarMe, ChrisMiaW S Position: WFS000523
